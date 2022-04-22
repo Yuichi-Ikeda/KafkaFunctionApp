@@ -28,4 +28,4 @@
 - Azure Functions : Windows 環境推奨
 - .NET 6
 
-　デプロイ後に Azure Functions の構成メニュー、アプリケーション設定で環境変数として local.settings.json の値を登録する必要があります。
+　デプロイ後に Azure Functions の構成メニューのアプリケーション設定で環境変数として local.settings.json の値を登録する必要があります。
