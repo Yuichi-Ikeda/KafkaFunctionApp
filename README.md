@@ -1,4 +1,4 @@
-# Azure Functions Kafka Consumer アプリケーション
+# Azure Functions - Kafka Consumer アプリケーション
 
 ## 概要
 　Azure Functions Kafka extension を利用した C# サンプルです。users Topic に配信されたメッセージをトリガーとして起動します。
