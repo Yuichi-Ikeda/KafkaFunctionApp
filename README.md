@@ -1,16 +1,12 @@
 # Azure Functions - Kafka Consumer アプリケーション
 
 ## 概要
-　Azure Functions Kafka extension を利用した C# サンプルです。users Topic に配信されたメッセージをトリガーとして起動します。
+　Azure Functions の Kafka Trigger を利用した C# サンプルです。users Topic に配信されたメッセージをトリガーとして起動します。
 
 [ベースサンプル](https://github.com/Azure/azure-functions-kafka-extension-sample-confluent)を元に最新版の Visual Studio 2022 にて新規作成しています。
 
 ### ローカル開発環境
 - Visual Studio 2022
-
-## 開発環境の準備
-
-### [クイック スタート:Visual Studio を使用して Azure で初めての関数を作成する](https://docs.microsoft.com/ja-jp/azure/azure-functions/functions-create-your-first-function-visual-studio)
 
 ローカル実行には local.settings.json ファイルをプロジェクトに追加して環境変数を設定する必要があります。
 
